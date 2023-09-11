@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 고신뢰소프트웨어 연구실
+title: DSW Lab.
 email: hyuk@cwnu.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
-  Dependable SoftWare Lab. (DSW) @ CWNU CE Dept.
+  Dependable Software Lab.) @ CWNU CE Dept.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
