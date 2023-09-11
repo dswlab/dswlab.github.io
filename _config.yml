@@ -21,7 +21,7 @@
 title: DSW Lab.
 email: hyuk@cwnu.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
-  Dependable Software Lab.) @ CWNU CE Dept.
+  Dependable Software Lab. @ CHANGWON NATIONAL UNIVERSITY
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
