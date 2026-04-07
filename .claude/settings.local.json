@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest:*)",
+      "Bash(cp -r /c/workSpace/lab-website/* /c/workSpace/vibeWebCreate_01/)",
+      "Bash(cp -r /c/workSpace/lab-website/.* /c/workSpace/vibeWebCreate_01/)",
+      "Bash(rm -rf /c/workSpace/lab-website)",
+      "Bash(cp /c/workSpace/lab-website/package.json /c/workSpace/lab-website/package-lock.json /c/workSpace/lab-website/tsconfig.json /c/workSpace/lab-website/postcss.config.mjs /c/workSpace/lab-website/README.md /c/workSpace/vibeWebCreate_01/)",
+      "Bash(cp -r /c/workSpace/lab-website/public /c/workSpace/vibeWebCreate_01/)"
+    ]
+  }
+}
