@@ -15,7 +15,7 @@
 
 <br />
 
-<img src="public/banner.png" alt="MDView Banner" width="800" />
+<img src="[public/banner.png](https://raw.githubusercontent.com/revfactory/mdview/refs/heads/main/public/banner.png)" alt="MDView Banner" width="800" />
 
 </div>
 
